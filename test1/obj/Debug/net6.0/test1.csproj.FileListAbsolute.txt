@@ -1,0 +1,15 @@
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\test1.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\test1.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\test1.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\test1.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\bin\Debug\net6.0\test1.exe
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\bin\Debug\net6.0\test1.deps.json
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\bin\Debug\net6.0\test1.runtimeconfig.json
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\bin\Debug\net6.0\test1.dll
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\bin\Debug\net6.0\test1.pdb
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\test1.dll
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\refint\test1.dll
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\test1.pdb
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\test1.genruntimeconfig.cache
+C:\Users\Татьяна\Desktop\Аналитика\Homework\LPHW2\test1\obj\Debug\net6.0\ref\test1.dll
